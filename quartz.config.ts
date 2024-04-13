@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📖 SAP S/4HANA",
+    pageTitle: "📖 SAP S/4",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
