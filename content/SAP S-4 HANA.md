@@ -10,7 +10,7 @@ Dúvidas? Saiba onde nos encontrar:Canal no Slack:E-mail:Administrador da equipe
 
 ---
 
-[[ABAP]]
+[[ABAP/index]]
 
 [[Basis]]
 

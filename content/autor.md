@@ -1,1 +1,0 @@
-*Leonardo A. Paiva*

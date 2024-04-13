@@ -18,13 +18,13 @@ O SAP EWM (Extended Warehouse Management) é uma solução de gerenciamento de a
 
 [[Dados Mestre]]
 
-[[SAP S-4 HANA/EWM/Aplicativos/Aplicativos]]
+[[EWM/Aplicativos/Aplicativos]]
 
 [[Processos]]
 
-[[SAP S-4 HANA/EWM/Base de Conhecimento]]
+[[EWM/Base de Conhecimento]]
 
-[[SAP S-4 HANA/EWM/Integrações]]
+[[EWM/Integrações]]
 
   
 

@@ -12,4 +12,4 @@ Com o SAP TM, as empresas podem melhorar a eficiência operacional, reduzir cust
 
   
 
-[[SAP S-4 HANA/TM/Integrações/Integrações|Integrações]]
+[[TM/Integrações/Integrações|Integrações]]
