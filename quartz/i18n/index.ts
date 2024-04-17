@@ -56,6 +56,7 @@ export const TRANSLATIONS = {
   "hu-HU": hu,
 } as const
 
+
 export const defaultTranslation = "en-US"
 export const i18n = (locale: ValidLocale): Translation => TRANSLATIONS[locale ?? defaultTranslation]
 export type ValidLocale = keyof typeof TRANSLATIONS
